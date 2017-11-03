@@ -1,0 +1,29 @@
+.back{
+background-color: #680505;
+height: 800px;
+}
+
+.ground{
+background-color: #d6cb2f;
+height: 800px;
+}
+
+.back2{
+background-color: #f7e6e8;
+height: 600px;
+}
+
+.ground2{
+background-color: #f7f7b4;
+height: 600px;
+}
+
+.wrapper {
+    width: 1200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
+    overflow: hidden
+}
